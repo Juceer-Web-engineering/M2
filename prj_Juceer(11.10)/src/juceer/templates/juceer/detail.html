@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>{{object.artist_name}}</h1>
+	{% if user.is_authenticated %}
+		<p> {{object.song_id}} </p>
+	{% endif %}
+	{% if request.user.is_authenticated %}
+		<a href = '/juceer/{{object.song_id}}/edit/'>Edit</a>
+		<a href = '/juceer/{{object.song_id}}/delete/'><font  color="red">Delete</a>
+		<a href = "https://www.google.com/?q={{object.artist_name}}" font  color="red"> Google it!</a>
+	{% endif %}  
+
+{% endblock %} 

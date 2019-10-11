@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"artist_name"
+			],
+			[
+				"ser",
+				"search"
+			],
+			[
+				"Ob",
+				"objects"
+			],
+			[
+				"Jucee",
+				"JuceerSong"
+			],
+			[
+				"io",
+				"io_string"
+			],
+			[
+				"Ser",
+				"search"
+			],
+			[
+				"Blo",
+				"BlogPostForm"
+			],
+			[
+				"cl",
+				"cleaned_date"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"cote",
+				"context"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"blog",
+				"BlogPost"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"list",
+				"lists"
+			],
+			[
+				"LIN",
+				"line"
+			],
+			[
+				"LINE",
+				"line_count"
+			],
+			[
+				"WORD",
+				"word_count"
+			],
+			[
+				"word",
+				"word_count"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"wo",
+				"word_count"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"file",
+				"file_object"
+			],
+			[
+				"p",
+				"print\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2100,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/yulyz/Desktop/web/prj_Juceer(11.10)/src",
+		"/C/Users/yulyz/Desktop/web/prj_Juceer(11.10)/src/prj",
+		"/C/Users/yulyz/Desktop/web/prj_Juceer(11.10)/src/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/yulyz/Desktop/web/prj_w/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/prj/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/searches/templates/searches/view.html",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/searches/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_w/src/searches/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/templates/juceer/list_song.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/templates/juceer/list.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/templates/juceer/delete.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/templates/juceer/detail.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/searches/templates/searches/view.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/searches/views.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/searches/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/searches/admin.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/templates/juceer/update.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/juceer/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/song/views.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/templates/form.html",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/song/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - 10_10 - Copy/src/song/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/juceer/list.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/uploading.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/templates/song/list.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/templates/song/detail.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/juceer/create.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/views.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/tests.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/admin.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/views.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/detail.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/list.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/form.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/base.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/js.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/models.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/delete.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/views.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/not_a_user.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/urls.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/urls.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/admin.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/base_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/tests.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/apps.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/hello_world.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/newpr/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/update.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog_post_create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/settings.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_list.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_detail.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_update.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_delete.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_details.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/manage.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/home.html",
+		"/C/Users/yulyz/Desktop/as5_4.py",
+		"/C/Users/yulyz/Desktop/as5_3.py",
+		"/C/Users/yulyz/Desktop/as5_2d2.py",
+		"/C/Users/yulyz/Desktop/as5_2d.py",
+		"/C/Users/yulyz/Desktop/as5_2c.py",
+		"/C/Users/yulyz/Desktop/as5_2b.py",
+		"/C/Users/yulyz/Desktop/as5_2a.py",
+		"/C/Users/yulyz/Desktop/countwords3.py",
+		"/C/Users/yulyz/Desktop/countwords4.py",
+		"/C/Users/yulyz/Desktop/as5.2a.py",
+		"/C/Users/yulyz/Desktop/as5.2b.py",
+		"/C/Users/yulyz/Desktop/as5.2.py",
+		"/C/Users/yulyz/Downloads/Simple OpenGL Image Library/projects/VC9/SOIL.sln",
+		"/C/Users/yulyz/Desktop/test.py",
+		"/C/Users/yulyz/SmpLinRegr.py",
+		"/C/Users/yulyz/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Users/yulyz/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/C/Users/yulyz/AppData/Roaming/Sublime Text 3/Packages/User/fdsfds.sublime-build",
+		"/C/Users/yulyz/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"juceerpost",
+			" \"",
+			"login_required",
+			"0",
+			"or",
+			"})"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/navbar.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 38.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prj.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\yulyz\\Desktop\\web\\udemy_pr\\newpr.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
