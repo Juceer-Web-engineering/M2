@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1> List {{title}}</h1>
+
+	<hr>
+	{% for object in object_list %}
+		<li> <a href = '/juceer/artist/{{object.artist_id}}/'>{{object.artist_name}}</a></li>
+ 		<hr>
+	{% endfor %}
+	
+{% endblock %}
+
+
