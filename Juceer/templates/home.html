@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+  {% if user.is_authenticated %}
+    <h1 class="display-4"><i Using STYLE="text-transform:uppercase">{{user}}, hello!</i> </h1>
+  	<p class="lead">{{title}}</p>
+  {% else %}
+  	<h1 class="display-4">Hello new user!</h1>
+  {% endif %}
+  <hr class="my-4">
+  <p>Use navigation bar to find a lot of interesting things here. 
+Search by artist name, code of song or year using search field.</p>
+</div>
+{% endblock %}
