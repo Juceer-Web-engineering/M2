@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1> List {{title}}</h1>
+	<hr>
+	{% for a in object_list %}
+	{% if a != '' and a != ' ' %}
+		<li>{{a}}</li>
+		<hr>
+	{% else %}
+	<li>NOT DEFINED</li>
+		<hr>
+	{% endif %}
+	{% endfor %}
+	
+{% endblock %}
+
+
