@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>{{object.song_id}}</h2>
+
+	<h3>Information about song</h3>
+	<p>Release id: {{object.release_id}}</p>
+	<p>Song Hotttnesss: {{object.song_hotttnesss}}</p>
+	<p>Song Year: <a href = '/search/?q={{object.song_year}}'>{{object.song_year}}</a></p>
+
+	<h3>Information about artist</h3>
+	<p>Artist name: <a href = '/juceer/artist/{{object.artist_id}}/'>{{object.artist_name}}</a></p>
+	<p>Artist ID: <a href = '/juceer/artist/{{object.artist_id}}/'>{{object.artist_id}}</a></p>
+	<p>Artist Terms: <a href = '/search/?q={{object.artist_terms}}'>{{object.artist_terms}}</a></p>
+	<p>Artist Hotttnesss: {{object.artist_hotttnesss}}</p>
+	<p>Other <a href = '/juceer/artist/{{object.artist_id}}/song/'>songs</a> of this artist</p>
+
+	<a href = "https://www.google.com/?q={{object.artist_name}}" font  color="red"> Google it!</a>
+	<hr>
+	{% if request.user.is_authenticated %}
+		<a href = '/juceer/{{object.song_id}}/edit/'>Edit</a>
+		<a href = '/juceer/{{object.song_id}}/delete/'><font  color="red">Delete</a>
+	{% endif %}  
+
+{% endblock %} 
+

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>Details of '{{object.artist_name}}' band</h3>	
+	<p>Artist Hotttnesss: {{object.artist_hotttnesss}}</p>
+	<p>Artist ID: {{object.artist_id}}</p>
+	<p>Artist Terms: {{object.artist_terms}}</p>
+	<p>Number of songs in database: {{number}}</p>
+	<p>Mean of popularity of all songs: {{mean}}</p>
+	<p>Median of popularity of all songs: {{median}}</p>
+	<p>Standart deviation of popularity of all songs: {{std_deviation}}</p>
+	<p></p>
+	<h5>Year-by-year statistics</h5>
+	{% for a in stat %}
+		<p>{{a}}</p>
+	{% endfor %}
+	<p><a href = "song/">Songs</a></p>
+	<p>{{doc}}</p>
+{% endblock %}
+
+ 
